@@ -22,5 +22,9 @@
     "node-sass": "^4.9.0",
     "sass-loader": "^7.0.1",
     "vue-template-compiler": "^2.5.17"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/BuuBux/StarWars-Ossus.git",
+  "author": "BuuBux <buubux@gmail.com>",
+  "license": "MIT"
 }
